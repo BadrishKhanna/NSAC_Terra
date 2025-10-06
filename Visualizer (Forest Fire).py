@@ -1,3 +1,4 @@
+
 # video_globe_app.py
 import sys
 import os
@@ -275,58 +276,6 @@ disasters = {
                 drive_to_direct("https://drive.google.com/uc?id=1hKdV62RgRkTMble_vPnjSpGSEAkOeYwN"),
                 drive_to_direct("https://drive.google.com/uc?id=1z-vYFdPlxtf4q_ztGyl6aWUblYgkjNxT"),
                 drive_to_direct("https://drive.google.com/uc?id=1_Gg2ZglVKhiNG3BvSRJp_93REufTOjz9")
-            ]
-        "Forest Fire": [
-        {
-            "name": "Amazon Rainforest Fire",
-            "location": "Brazil – 2019",
-            "video": drive_to_direct("https://drive.google.com/uc?id=1bTx19oxt3T_X5qd4rFLIlH3KEkm7oeMk"),
-            "text": drive_to_direct("https://drive.google.com/uc?id=1jV5tKOmAnIMVI0bu-qxT6Vo-N8CGinTg"),
-            "right_images": [
-                drive_to_direct("https://drive.google.com/uc?id=12SSqzs5yTR178dkJ9gI0FmmoGIgU6NRc"),
-                drive_to_direct("https://drive.google.com/uc?id=1CkHf-dVF3SYV_b65s_gyScQMTEjHAOL3"),
-                drive_to_direct("https://drive.google.com/uc?id=16O8CQ8ypPaulSBjSVepAlNtdMGu9NKrp"),
-                drive_to_direct("https://drive.google.com/uc?id=15H3Op3lseMUyRQeUsKp2GMPFaKcDcv8v")
-            ],
-            "slideshow": [
-                drive_to_direct("https://drive.google.com/uc?id=1ah-P4EtKR0noe1ypKGcm4-07_3Z13eQk"),
-                drive_to_direct("https://drive.google.com/uc?id=10633_4iFloMdG8MsqBGZ54LV5PKixZCp"),
-                drive_to_direct("https://drive.google.com/uc?id=13AkuKN1ueW0MjXdx7NDeNLuCzc6e86hc"),
-                drive_to_direct("https://drive.google.com/uc?id=1wJFdsUkOTAKej6y1PjV80GjTZQyVwX7g"),
-                drive_to_direct("https://drive.google.com/uc?id=1I8hRUCWRY-_a6pjpPapiT-AmBfzEJtD4"),
-                drive_to_direct("https://drive.google.com/uc?id=1Nn2FamL9UUZe4nrrSIbwHQH-gGvzJLFU"),
-                drive_to_direct("https://drive.google.com/uc?id=1n5Ocpv6oa6jfJm1hUPpKx_L15sGfMlWe"),
-                drive_to_direct("https://drive.google.com/uc?id=1dG0M0F-J6igUEQh24qDu4T93DgHd3u1w"),
-                drive_to_direct("https://drive.google.com/uc?id=1cib4JE2ox5SYGe4Ub61NdMcxQnMKyzAV"),
-                drive_to_direct("https://drive.google.com/uc?id=1c37fx4w3oaLWM_cW5fZPtDgmKSADE0_g"),
-                drive_to_direct("https://drive.google.com/uc?id=1CRqE5XvucBNXOOtWRdUAuqT5danW-pmH"),
-                drive_to_direct("https://drive.google.com/uc?id=1pPKUyBEQXYHoRbRKJtSMCQAUcJcT2Vew")
-            ]
-        },
-        {
-            "name": "August Complex Fires",
-            "location": "California – 2020",
-            "video": drive_to_direct("https://drive.google.com/uc?id=1sq0ur4iDhUEjy8NrXrhJlwBxJxPAfvn4"),
-            "text": drive_to_direct("https://drive.google.com/uc?id=16zZZgoG2-ycvQNs9cUb4NFjoONTFwEDW"),
-            "right_images": [
-                drive_to_direct("https://drive.google.com/uc?id=1gm0M7wkM_yviWjznv1lEINsB3B4Ppgtl"),
-                drive_to_direct("https://drive.google.com/uc?id=1EDvaZdAXn6buoizeDq4Q277SyVnw7gSe"),
-                drive_to_direct("https://drive.google.com/uc?id=1y7c2gPR2teGNV0SFew9brqB8pNuv-4kj"),
-                drive_to_direct("https://drive.google.com/uc?id=1YEPniv5JGhF80i4xFcdZFvKMwO39Om0x")
-            ],
-            "slideshow": [
-                drive_to_direct("https://drive.google.com/uc?id=1AVo4LLTcmOYpWOXZZ7tXrHdIO7RVRoeA"),
-                drive_to_direct("https://drive.google.com/uc?id=1K6aBVY_TU80HvDw2-QwcHW6iGTR48R7j"),
-                drive_to_direct("https://drive.google.com/uc?id=1PKGcZAxmstOr7oPpxK-d6C_aLCTB3G0x"),
-                drive_to_direct("https://drive.google.com/uc?id=1lRNltHTSYYttxquT_CpVZ_UaOiiC0J5t"),
-                drive_to_direct("https://drive.google.com/uc?id=1e5ffaTSXh_xZDD0kSK58H6jxl6ZlOVtx"),
-                drive_to_direct("https://drive.google.com/uc?id=1HprSZ9ykepIAOz1lWgVGpbLHKEtPwUj5"),
-                drive_to_direct("https://drive.google.com/uc?id=16g4xlUQa5hXa32btePltbARb-9meHH0y"),
-                drive_to_direct("https://drive.google.com/uc?id=1tiA_iUSfr4AW6F0icLbZkNspQUJ4-JS1"),
-                drive_to_direct("https://drive.google.com/uc?id=1O4LuE7MtAaTspxB9uU-iulu2nMuspYna"),
-                drive_to_direct("https://drive.google.com/uc?id=1FJIdzML5k-1UNutZHdftbDSETF9tw7gR"),
-                drive_to_direct("https://drive.google.com/uc?id=1ZHgOgxCELfV1S3HnRNW5ENNsVk5ETey0"),
-                drive_to_direct("https://drive.google.com/uc?id=1X3ovjfScowapIjFCbiRe-EwzwehxDnWs")
             ]
         }
        
@@ -750,4 +699,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
